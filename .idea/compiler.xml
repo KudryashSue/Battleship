@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Battleship.Battleship-task.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Calculate_Square.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Determine_an_exception.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Explore_the_standard_class_library.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Is_the_code_fully_protected.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Array_exceptions-Where_an_exception_occurs.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Checked_exception_with_constructor.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Custom_exceptions_features.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Handle_incorrect_inputs.main" target="11" />
+      <module name="Battleship.Topics-Custom_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-Catching_some_exceptions.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-Method_named_process.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-Suitable_keywords.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Battleship.Topics-Exception_handling-What_exceptions_can_be_handled.main" target="11" />
+      <module name="Battleship.Topics-Files-A_relative_path.main" target="11" />
+      <module name="Battleship.Topics-Files-Are_siblings.main" target="11" />
+      <module name="Battleship.Topics-Files-Getting_information.main" target="11" />
+      <module name="Battleship.Topics-Files-Theory.main" target="11" />
+      <module name="Battleship.Topics-Files-Сorrect_statements.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Byte_vs_character_input_streams.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Convert_to_bytes.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Count_words.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-FileInputStream_class.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Reverse_input_text.main" target="11" />
+      <module name="Battleship.Topics-Input_streams-Theory.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Multidimensional_array_features.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Symmetric_matrix.main" target="11" />
+      <module name="Battleship.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-How_to_throw_an_exception.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Possible_declaration.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Theory.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throw_an_IOException.main" target="11" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throwing_statements.main" target="11" />
+      <module name="Battleship.Topics-Try_with_resources-Can_be_fixed.main" target="11" />
+      <module name="Battleship.Topics-Try_with_resources-Mission_statement.main" target="11" />
+      <module name="Battleship.Topics-Try_with_resources-Refactoring.main" target="11" />
+      <module name="Battleship.Topics-Try_with_resources-Theory.main" target="11" />
+      <module name="Battleship.Topics-Try_with_resources-What_can_be_released.main" target="11" />
+      <module name="Battleship.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

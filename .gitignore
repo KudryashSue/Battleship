@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
